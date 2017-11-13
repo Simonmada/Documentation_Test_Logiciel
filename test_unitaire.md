@@ -1,4 +1,4 @@
-Principe : tester une fonctionnalité élémentaire
+<strong>__Principe : tester une fonctionnalité élémentaire__<strong>
 
     Pour chaque module (unité) du programme
     Pour des cas typiques d'utilisation
